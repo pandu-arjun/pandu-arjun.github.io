@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Here is my PDF version of CV <a href="MallikarjunaTupakula_CV.pdf" target="_blank">MallikarjunaTupakula_CV</a>
+
 Education
 ======
 * B.Tech in Computer Science and Engineering, R.V.R & J.C College of Engineering, Guntur, India. 2020.
