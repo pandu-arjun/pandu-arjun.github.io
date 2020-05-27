@@ -5,26 +5,13 @@ permalink: /scholarships/
 author_profile: true
 ---
 
-MS Thesis
-======
-Sapana Chaudhary. (2018). "On Learning Smooth Policies in Imitation Learning." Indian Institute of Technology Madras, Chennai, India. 
+### 1. Computer Vision Nanodegree offered by Facebook AI
+Facebook AI offers Scholarships to students who are the top performers in Secure and Private AI Scholarship Course at Udacity to 300 
+over 5000 peoples.
 
-Publications 
-======
-* Sapana Chaudhary, Akshat Dave, Balaraman Ravindran. (2018) <q>SILC: Smoother Imitation with Lipschitz Costs.</q> Poster at: the Deep Reinforcement Learning Symposium, NIPS, Dec 2017; the 1<sup>st</sup> Workshop on Goal Specification in Reinforcement Learning, ICML, July 2018.
+### 2. Secure and Private AI Scholarship offered by Facebook AI
+Facebook AI offers a new course on Privacy in AI in collaboration with [openmined.org](https://www.openmined.org/). This course offered 
+to 5000 thousand peoples all around the world.
 
-Talks
-=====
-* <q>Smooth Costs Result in Smooth Policies.</q> Poster at RBC-DSAI First and Second Workshop on Recent Progress in Data Science and AI, IIT Madras, November 2017 and April 2018.
-
-* <q>Natural Gradient Descent for Neural Networks.</q> 
-
-  RISE Lab Talk, IIT Madras, Fall 2016.  
-
-* <q>Optimization for Neural Networks.</q>
-
-  Deep Learning study group, RISE Lab, IIT Madras, Summer 2016. 
-
-* <q>An Intelligent System for Making Hospital Announcements for Emergency.</q>
-
-  Project presentation at impressIT - Proof of Concept IT Solution, SAP Labs, Bangalore, Oct 2013. 
+### 3. Intel Edge AI Scholarship offered by Intel
+Intel offers Scholarship to 750 individuals to pursue [OpenVINO](https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html) toolkit in collaboration with Udacity. 
