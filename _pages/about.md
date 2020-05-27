@@ -21,3 +21,5 @@ problems.
 Apart from my studies I am interested in swimming, hiking and travelling. 
 
 If you want to know about me feel free to drop a mail.....😉
+
+Here is my  CV <a href="MallikarjunaTupakula_CV.pdf" target="_blank">Read more</a>
