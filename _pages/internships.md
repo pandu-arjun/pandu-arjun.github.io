@@ -1,31 +1,62 @@
 ---
 layout: archive
-title: ""
-permalink: /publications/
+title: "CV"
+permalink: /cv/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
-MS Thesis
+{% include base_path %}
+
+Education
 ======
-Sapana Chaudhary. (2018). "On Learning Smooth Policies in Imitation Learning." Indian Institute of Technology Madras, Chennai, India. 
+* B.Tech in Computer Science and Engineering, R.V.R & J.C College of Engineering, Guntur, India. 2020.
+* Computer Vision Nanodegree at Udacity. 2020
 
-Publications 
+Work experience
 ======
-* Sapana Chaudhary, Akshat Dave, Balaraman Ravindran. (2018) <q>SILC: Smoother Imitation with Lipschitz Costs.</q> Poster at: the Deep Reinforcement Learning Symposium, NIPS, Dec 2017; the 1<sup>st</sup> Workshop on Goal Specification in Reinforcement Learning, ICML, July 2018.
+* Research Intern, Dec 2019 - March 2020.
+  * [Indian Institute of Technology Madras](https://www.iitm.ac.in/), Chennai, India.
+  * Working in [Computational Neuroscience Laboratory](https://biotech.iitm.ac.in/Faculty/CNS_LAB/home.html) under the guidance of           [Prof. Srinivasa Chakravarthy] in the Neuromotive team on Deep Learning and Computer Vision, Article Writing, and also update of 
+  [bharatiscript](https://bharatiscript.com/) webpage.
 
-Talks
-=====
-* <q>Smooth Costs Result in Smooth Policies.</q> Poster at RBC-DSAI First and Second Workshop on Recent Progress in Data Science and AI, IIT Madras, November 2017 and April 2018.
+* Research Intern, Dec 2019 - March 2020.
+  * [National University of Singapore](http://www.nus.edu.sg/), Singapore.
+  * Worked on a project Automatic anomaly detection in graphs to find unusually dense subgraphs using deep learning techniques with
+    a Ph.D. student.
 
-* <q>Natural Gradient Descent for Neural Networks.</q> 
+* Research Intern, Dec 2019 - March 2020.
+  * [Indian Institute of Management Bangalore](https://www.iimb.ac.in/home), Bangalore, India.
+  * Worked under the guidance of [Prof. Trilochan Sastry](https://www.iimb.ac.in/user/138/trilochan-sastry). Professor had 
+  assigned me to do Research on villages for the development of [CCD (Center for Collective Development)](https://ccd.ngo/).
+  He founded a startup [Farmveda](https://www.farmveda.in/) where I worked on Research, Data Analytics, and Digital Marketing.
 
-  RISE Lab Talk, IIT Madras, Fall 2016.  
 
-* <q>Optimization for Neural Networks.</q>
+Campus Activities and Volunteering 
+======
+* Volunteered for NSS (National Service Scheme) to bring awareness on higher education to school children.
+* Campus Ambassador, YourStory Media.
+* Campus Leader, Unmaad IIM Bangalore.
+* Campus Ambassador, Unmaad IIM Bangalore.
+* Internshala Student Partner 12.0. 
+* Campus Ambassador, E-Cell IIT Bombay.
+* Campus Ambassador, Techfest IIT Bombay.
+* Campus Ambassador, Forum for Industrial Intraction.
 
-  Deep Learning study group, RISE Lab, IIT Madras, Summer 2016. 
-
-* <q>An Intelligent System for Making Hospital Announcements for Emergency.</q>
-
-  Project presentation at impressIT - Proof of Concept IT Solution, SAP Labs, Bangalore, Oct 2013. 
-
+References 
+======
+* Dr. Trilochan Sastry
+  Professor, Indian Institute of Management Bangalore, Bangalore, India.
+* Dr. Aparna Chaparala
+  Associate Professor, Department of Computer Science and Engineering, R.V.R & J.C College of Engineering, Guntur, India. 
+* Dr. M.V.P. Chandra Sekhar Rao
+  Professor, Department of Computer Science and Engineering, R.V.R & J.C College of Engineering, Guntur, India.
+* Mr. K.Venkata Krishna Rao
+  Ph.D. Scholar, Department of Computer Science and Engineering, IIT BHU, Varanasi, India.
+* Mr. Kaushalendra Yadav
+  Cheif Executive Officer at Farmveda, Bangalore
+* Mr. Shivam Shukla
+  Head of Operations at Farmveda, Bangalore
+* Dr. Srinivasa Chakravarthy 
+  Professor, Indian Institute of Technology Madras, Chennai, India.
