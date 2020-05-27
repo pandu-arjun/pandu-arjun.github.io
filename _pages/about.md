@@ -20,7 +20,8 @@ problems.
 
 Apart from my studies I am interested in swimming, hiking and travelling. 
 
-You can find PDF version of my CV here <a href="MallikarjunaTupakula_CV.pdf" target="_blank">MallikarjunaTupakula_CV</a>
+You can find my complete professional details on my CV here <a href="MallikarjunaTupakula_CV.pdf
+target="_blank">MallikarjunaTupakula_CV</a>
 
 If you want to know about me feel free to drop a mail.....😉
 
