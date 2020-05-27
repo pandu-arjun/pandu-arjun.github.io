@@ -13,7 +13,7 @@ Education
 ======
 * B.Tech in Computer Science and Engineering, R.V.R & J.C College of Engineering, Guntur, India. 2020.
 * Computer Vision Nanodegree at Udacity. 2020
-
+<!--
 Work experience
 ======
 * Research Intern, Dec 2019 - March 2020.
@@ -30,7 +30,7 @@ Work experience
   * [Indian Institute of Management Bangalore](https://www.iimb.ac.in/home), Bangalore, India.
   * Worked under the guidance of [Prof. Trilochan Sastry](https://www.iimb.ac.in/user/138/trilochan-sastry). Professor had 
   assigned me to do Research on villages for the development of [CCD (Center for Collective Development)](https://ccd.ngo/).
-  He founded a startup [Farmveda](https://www.farmveda.in/) where I worked on Research, Data Analytics, and Digital Marketing.
+  He founded a startup [Farmveda](https://www.farmveda.in/) where I worked on Research, Data Analytics, and Digital Marketing. -->
 
 
 Campus Activities and Volunteering 
