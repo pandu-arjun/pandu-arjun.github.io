@@ -10,8 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-Internships
-======
 * Research Intern, Dec 2019 - March 2020.
   * [Indian Institute of Technology Madras](https://www.iitm.ac.in/), Chennai, India.
   * Working in [Computational Neuroscience Laboratory](https://biotech.iitm.ac.in/Faculty/CNS_LAB/home.html) under the guidance of           [Prof. Srinivasa Chakravarthy] in the Neuromotive team on Deep Learning and Computer Vision, Article Writing, and also update of 
