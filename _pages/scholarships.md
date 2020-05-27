@@ -1,8 +1,7 @@
-
 ---
 layout: archive
-title: ""
-permalink: /publications/
+title: "Scholarships"
+permalink: /scholarships/
 author_profile: true
 ---
 
