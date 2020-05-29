@@ -15,7 +15,7 @@ from my side by spending your time to visit my page. If you are here, you are pr
 
 I'm a Senior Computer Science Undergradaute Student at R.V.R & J.C College of Engineering. I have major interests in Machine Learning,
 Deep Learning, Computer Vision, Privacy-Preserving AI, and Psychology. I have minor interests in Economics, Social Enterprise, Health Care,
-and Neuroscience. I am always curious in reading research papers in these areas and apply those methodologoes to solve the toughes
+and Neuroscience. I am always curious in reading research papers in these areas and apply those methodologoes to solve the toughest
 problems.
 
 Apart from my studies I am interested in swimming, hiking and travelling. 
