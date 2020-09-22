@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 
-* Machine Learning Intern, Aug 2020 - Present.
-  * [Spacept](https://spacept.com/), Stockholm.
+* Machine Learning Intern, [Spacept](https://spacept.com/), Stockholm.                                                                   Aug 2020 - Present.
+
   * Working on an Oil Spill detection project using Machine Learning.
 
 * Research Intern, Dec 2019 - March 2020.
